@@ -23,7 +23,7 @@ function AppContent() {
   }
 
   return (
-    <Router basename='/stock'>
+    <Router basename='/frontapp'>
       <div className="app">
         {user && <Navbar />}
         <div className={user ? "main-content" : "full-content"}>
