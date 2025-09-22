@@ -1,6 +1,6 @@
 {
   "name": "inventory-frontend",
-  "homepage": "/frontapp1/",
+  "homepage": "/stock/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
